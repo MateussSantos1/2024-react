@@ -62,6 +62,7 @@ const App = () => {
 
   return (
     <div className="aplicacao">
+      <img src="https://media1.giphy.com/media/oBQZIgNobc7ewVWvCd/giphy.gif" width="100px" />
       <h1>Infoweb - React</h1>
       <div>
         <label htmlFor="tarefa">Informe a nova tarefa: </label>
