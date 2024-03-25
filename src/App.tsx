@@ -4,6 +4,7 @@ import "./App.css";
 const ListaDeTarefas = (props: any) => {
   return (
     <>
+    <img src="https://media1.giphy.com/media/oBQZIgNobc7ewVWvCd/giphy.gif"/>
       <h4>Tarefas como lista de objetos</h4>
       <ul>
         {
